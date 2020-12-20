@@ -3,3 +3,11 @@
 This is an attempt to compare the popular utility libraries, along with the capabilities of native JavaScript
 
 See [REPL](https://repl.it/@irmerk/Comparing-Utility-Libraries) for quick running or browser experience.
+
+### Run Locally
+
+```bash
+git clone https://github.com/irmerk/javascript-utilities-ramda-lodash.git
+cd javascript-utilities-ramda-lodash
+node index.js
+```
